@@ -20,6 +20,7 @@ namespace Co_opClassLibrary
         private string mPostCode;
         private Int32 mSortCode;
         private string mStreet;
+        private Int32 mStreetNumber;
         private string mTown;
 
         public int ClientID
@@ -229,6 +230,20 @@ namespace Co_opClassLibrary
             }
         }
 
+        public Int32 StreetNumber
+        {
+            get
+            {
+                //tis line of code sends data out of the property
+                return mStreetNumber;
+            }
+            set
+            {
+                //this line of code allows data into property
+                mStreetNumber = value;
+            }
+        }
+
 
         public string Town
         {
@@ -274,7 +289,23 @@ namespace Co_opClassLibrary
             {
                 
                 mClientID = Convert.ToInt32(DB.DataTable.Rows[0]["ClientID"]);
-      
+                mFirstName = Convert.ToString(DB.DataTable.Rows[0]["FirstName"]);
+                mLastName = Convert.ToString(DB.DataTable.Rows[0]["LastName"]);
+                mStreet = Convert.ToString(DB.DataTable.Rows[0]["Street"]);
+                mStreetNumber = Convert.ToInt32(DB.DataTable.Rows[0]["StreetNumber"]);
+                mTown = Convert.ToString(DB.DataTable.Rows[0]["Town"]);
+                mHouseNumber = Convert.ToInt32(DB.DataTable.Rows[0]["HouseNumber"]);
+                mPostCode = Convert.ToString(DB.DataTable.Rows[0]["PostCode"]);
+                mPhoneNumber = Convert.ToString(DB.DataTable.Rows[0]["PhoneNumber"]);
+                mEmail = Convert.ToString(DB.DataTable.Rows[0]["Email"]);
+                mPassword = Convert.ToString(DB.DataTable.Rows[0]["Password"]);
+                mAccountType = Convert.ToString(DB.DataTable.Rows[0]["AccountType"]);
+                mAnnualIncome = Convert.ToString(DB.DataTable.Rows[0]["AnnualIncome"]);
+                mEmploymentStatus = Convert.ToString(DB.DataTable.Rows[0]["EmploymentStatus"]);
+                mBankName = Convert.ToString(DB.DataTable.Rows[0]["BankName"]);
+                mSortCode = Convert.ToInt32(DB.DataTable.Rows[0]["SortCode"]);
+                mAccountNumber = Convert.ToInt32(DB.DataTable.Rows[0]["AccountNumber"]);
+
 
                 //return that everything worked
                 return true;
