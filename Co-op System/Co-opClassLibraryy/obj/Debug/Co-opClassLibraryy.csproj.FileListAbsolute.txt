@@ -1,0 +1,9 @@
+C:\Users\P2539038\Source\Repos\Co-op-TD-Project1\Co-op System\Co-opClassLibraryy\bin\Debug\Co-opClassLibraryy.dll
+C:\Users\P2539038\Source\Repos\Co-op-TD-Project1\Co-op System\Co-opClassLibraryy\bin\Debug\Co-opClassLibraryy.pdb
+C:\Users\P2539038\Source\Repos\Co-op-TD-Project1\Co-op System\Co-opClassLibraryy\obj\Debug\Co-opClassLibraryy.csproj.AssemblyReference.cache
+C:\Users\P2539038\Source\Repos\Co-op-TD-Project1\Co-op System\Co-opClassLibraryy\obj\Debug\Co-opClassLibraryy.csproj.CoreCompileInputs.cache
+C:\Users\P2539038\Source\Repos\Co-op-TD-Project1\Co-op System\Co-opClassLibraryy\obj\Debug\Co-opClassLibraryy.dll
+C:\Users\P2539038\Source\Repos\Co-op-TD-Project1\Co-op System\Co-opClassLibraryy\obj\Debug\Co-opClassLibraryy.pdb
+C:\Users\P2539038\Source\Repos\Co-op-TD-Project1\Co-op System\Co-opClassLibraryy\bin\Debug\System.Data.SqlClient.dll
+C:\Users\P2539038\Source\Repos\Co-op-TD-Project1\Co-op System\Co-opClassLibraryy\bin\Debug\System.Data.SqlClient.xml
+C:\Users\P2539038\Source\Repos\Co-op-TD-Project1\Co-op System\Co-opClassLibraryy\obj\Debug\Co-opClassLibraryy.csproj.CopyComplete

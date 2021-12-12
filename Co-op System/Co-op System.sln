@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Co-opFrontOffice", "Co-op Front Office\Co-opFrontOffice.csproj", "{51F796F1-0F5A-4A2F-A001-73C8DF91777E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Co-opBackOffice", "Co-opBackOffice\Co-opBackOffice.csproj", "{66B92DDD-FE63-4BD4-BCD7-5A752E9EDD35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Co-opBackOffice", "Co-opBackOffice\Co-opBackOffice.csproj", "{66B92DDD-FE63-4BD4-BCD7-5A752E9EDD35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Co-opClassLibrary", "Co-opClassLibraryy\Co-opClassLibrary.csproj", "{722652DE-D883-4074-B2FA-6A7573C1B599}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Co-opClassLibraryy", "Co-opClassLibraryy\Co-opClassLibraryy.csproj", "{722652DE-D883-4074-B2FA-6A7573C1B599}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Co-opTesting", "Co-opTesting\Co-opTesting.csproj", "{97891015-AAD9-4B5A-802A-10598A9C18CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Co-opTesting", "Co-opTesting\Co-opTesting.csproj", "{97891015-AAD9-4B5A-802A-10598A9C18CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
