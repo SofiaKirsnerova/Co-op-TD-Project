@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Co_opClassLibrary
+namespace Co_opClassLibraryy
 {
     public class clsClient
     {

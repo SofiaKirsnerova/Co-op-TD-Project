@@ -1,4 +1,4 @@
-using Co_opClassLibrary;
+using Co_opClassLibraryy;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
@@ -7,14 +7,6 @@ namespace Co_opTesting
     [TestClass]
     public class tstClient
     {
-
-        //some test data to pass the method
-        string Email = "sofia@gmail.com";
-        string Town = "Leicester";
-        string Sreet = "Western Road";
-        string DateAdded = DateTime.Now.Date.ToString();
-        string OrderStatus = "shipped";
-        string CustomerID = "12";
 
         //these lines of code are all for FIND METHOD with all attributes
         //it starts here
@@ -122,6 +114,7 @@ namespace Co_opTesting
             Assert.IsTrue(OK);
 
         }
+        [TestMethod]
         public void BankNameFound()
         {
             //create instance of the class we want to create
@@ -145,7 +138,7 @@ namespace Co_opTesting
             Assert.IsTrue(OK);
 
         }
-
+        [TestMethod]
         public void EmploymentStatusFound()
         {
             //create instance of the class we want to create
@@ -169,7 +162,7 @@ namespace Co_opTesting
             Assert.IsTrue(OK);
 
         }
-
+        [TestMethod]
         public void AnnualIncomeFound()
         {
             //create instance of the class we want to create
@@ -193,7 +186,7 @@ namespace Co_opTesting
             Assert.IsTrue(OK);
 
         }
-
+        [TestMethod]
         public void AccontTypeFound()
         {
             //create instance of the class we want to create
@@ -217,7 +210,7 @@ namespace Co_opTesting
             Assert.IsTrue(OK);
 
         }
-
+        [TestMethod]
         public void PasswordFound()
         {
             //create instance of the class we want to create
@@ -241,7 +234,7 @@ namespace Co_opTesting
             Assert.IsTrue(OK);
 
         }
-
+        [TestMethod]
         public void PhoneNumberFound()
         {
             //create instance of the class we want to create
@@ -265,7 +258,7 @@ namespace Co_opTesting
             Assert.IsTrue(OK);
 
         }
-
+        [TestMethod]
         public void PostCodeFound()
         {
             //create instance of the class we want to create
@@ -289,7 +282,7 @@ namespace Co_opTesting
             Assert.IsTrue(OK);
 
         }
-
+        [TestMethod]
         public void HouseNumberFound()
         {
             //create instance of the class we want to create
@@ -313,7 +306,7 @@ namespace Co_opTesting
             Assert.IsTrue(OK);
 
         }
-
+        [TestMethod]
         public void TownFound()
         {
             //create instance of the class we want to create
@@ -337,7 +330,7 @@ namespace Co_opTesting
             Assert.IsTrue(OK);
 
         }
-
+        [TestMethod]
         public void StreetNumberFound()
         {
             //create instance of the class we want to create
@@ -361,7 +354,7 @@ namespace Co_opTesting
             Assert.IsTrue(OK);
 
         }
-
+        [TestMethod]
         public void StreetFound()
         {
             //create instance of the class we want to create
@@ -385,7 +378,7 @@ namespace Co_opTesting
             Assert.IsTrue(OK);
 
         }
-
+        [TestMethod]
         public void LastNameFound()
         {
             //create instance of the class we want to create
@@ -409,6 +402,7 @@ namespace Co_opTesting
             Assert.IsTrue(OK);
 
         }
+        [TestMethod]
 
         public void FirstNameFound()
         {
