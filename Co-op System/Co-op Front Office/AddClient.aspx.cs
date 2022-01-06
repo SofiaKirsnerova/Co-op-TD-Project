@@ -13,5 +13,15 @@ namespace Co_op_Front_Office
         {
 
         }
+
+        protected void btnContinue_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("ContinueClient.aspx");
+        }
+
+        protected void Submitbtn_Click(object sender, EventArgs e)
+        {
+            lblError.Text = "Thank you, an advisor will be with you with next 24 hours.";
+        }
     }
 }

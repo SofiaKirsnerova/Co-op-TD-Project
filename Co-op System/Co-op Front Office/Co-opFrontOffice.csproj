@@ -71,7 +71,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AddClient.aspx" />
-    <Content Include="Coop_Norge-Logo.wine.png" />
+    <Content Include="ContinueClient.aspx" />
+    <Content Include="coop-logo-png-16.png" />
+    <Content Include="Fund.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -81,6 +83,20 @@
     </Compile>
     <Compile Include="AddClient.aspx.designer.cs">
       <DependentUpon>AddClient.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContinueClient.aspx.cs">
+      <DependentUpon>ContinueClient.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContinueClient.aspx.designer.cs">
+      <DependentUpon>ContinueClient.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Fund.aspx.cs">
+      <DependentUpon>Fund.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Fund.aspx.designer.cs">
+      <DependentUpon>Fund.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
