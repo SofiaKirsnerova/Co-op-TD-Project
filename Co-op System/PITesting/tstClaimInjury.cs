@@ -39,7 +39,7 @@ namespace PITesting
             //assign the data to the property
             AClaimInjury.InjuryID = InjuryID;
             //test to see it exists
-            Assert.AreEqual(AClaimInjury.InjuryID, InjuryID);
+            Assert.AreEqual(AClaimInjury.InjuryID, InjuryID); 
         }
     }
 }
