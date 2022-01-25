@@ -6151,23 +6151,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\P2574119\\.nuget\\packages\\": {},
+    "C:\\Users\\P2410479\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Year 3\\Coop System\\Week 16\\Co-op System\\Co-opTesting\\Co-opTesting.csproj",
+      "projectUniqueName": "H:\\TeamDevelopment 11111111111\\Week17\\Co-op System\\Co-opTesting\\Co-opTesting.csproj",
       "projectName": "Co-opTesting",
-      "projectPath": "H:\\Year 3\\Coop System\\Week 16\\Co-op System\\Co-opTesting\\Co-opTesting.csproj",
-      "packagesPath": "C:\\Users\\P2574119\\.nuget\\packages\\",
-      "outputPath": "H:\\Year 3\\Coop System\\Week 16\\Co-op System\\Co-opTesting\\obj\\",
+      "projectPath": "H:\\TeamDevelopment 11111111111\\Week17\\Co-op System\\Co-opTesting\\Co-opTesting.csproj",
+      "packagesPath": "C:\\Users\\P2410479\\.nuget\\packages\\",
+      "outputPath": "H:\\TeamDevelopment 11111111111\\Week17\\Co-op System\\Co-opTesting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\P2574119\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\P2410479\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -6182,8 +6182,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "H:\\Year 3\\Coop System\\Week 16\\Co-op System\\Co-opClassLibraryy\\Co-opClassLibraryy.csproj": {
-              "projectPath": "H:\\Year 3\\Coop System\\Week 16\\Co-op System\\Co-opClassLibraryy\\Co-opClassLibraryy.csproj"
+            "H:\\TeamDevelopment 11111111111\\Week17\\Co-op System\\Co-opClassLibraryy\\Co-opClassLibraryy.csproj": {
+              "projectPath": "H:\\TeamDevelopment 11111111111\\Week17\\Co-op System\\Co-opClassLibraryy\\Co-opClassLibraryy.csproj"
             }
           }
         }
