@@ -460,11 +460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Year 3\\Coop System\\Week 16\\Co-op System\\Co-opBackOffice\\Co-opBackOffice.csproj",
+      "projectUniqueName": "H:\\Year 3\\Team Development Project\\Coop System\\Week17 TDD\\Co-op System\\Co-opBackOffice\\Co-opBackOffice.csproj",
       "projectName": "Co-opBackOffice",
-      "projectPath": "H:\\Year 3\\Coop System\\Week 16\\Co-op System\\Co-opBackOffice\\Co-opBackOffice.csproj",
+      "projectPath": "H:\\Year 3\\Team Development Project\\Coop System\\Week17 TDD\\Co-op System\\Co-opBackOffice\\Co-opBackOffice.csproj",
       "packagesPath": "C:\\Users\\P2574119\\.nuget\\packages\\",
-      "outputPath": "H:\\Year 3\\Coop System\\Week 16\\Co-op System\\Co-opBackOffice\\obj\\",
+      "outputPath": "H:\\Year 3\\Team Development Project\\Coop System\\Week17 TDD\\Co-op System\\Co-opBackOffice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
