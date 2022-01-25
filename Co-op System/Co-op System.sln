@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Co-opTesting", "Co-opTestin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClasses", "TestClasses\TestClasses.csproj", "{BEC6E1C2-79B3-456D-A11C-693C530B8339}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogInsuranceTesting", "DogInsuranceTesting\DogInsuranceTesting.csproj", "{2D6F1142-39CF-4E87-88D9-8152864BB1D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BEC6E1C2-79B3-456D-A11C-693C530B8339}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEC6E1C2-79B3-456D-A11C-693C530B8339}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEC6E1C2-79B3-456D-A11C-693C530B8339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D6F1142-39CF-4E87-88D9-8152864BB1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6F1142-39CF-4E87-88D9-8152864BB1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6F1142-39CF-4E87-88D9-8152864BB1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6F1142-39CF-4E87-88D9-8152864BB1D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -47,6 +47,7 @@
     <Compile Include="clsAdvisor.cs" />
     <Compile Include="clsClient.cs" />
     <Compile Include="clsDataConnection.cs" />
+    <Compile Include="clsDog.cs" />
     <Compile Include="clsFees.cs" />
     <Compile Include="clsFund.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

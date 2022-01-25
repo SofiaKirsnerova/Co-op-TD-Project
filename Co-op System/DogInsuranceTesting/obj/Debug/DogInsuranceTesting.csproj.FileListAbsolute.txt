@@ -1,0 +1,16 @@
+H:\TeamDevelopment 11111111111\Week17\Co-op System\DogInsuranceTesting\obj\Debug\DogInsuranceTesting.csproj.AssemblyReference.cache
+H:\TeamDevelopment 11111111111\Week17\Co-op System\DogInsuranceTesting\obj\Debug\DogInsuranceTesting.csproj.CoreCompileInputs.cache
+H:\TeamDevelopment 11111111111\Week17\Co-op System\DogInsuranceTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\TeamDevelopment 11111111111\Week17\Co-op System\DogInsuranceTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\TeamDevelopment 11111111111\Week17\Co-op System\DogInsuranceTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\TeamDevelopment 11111111111\Week17\Co-op System\DogInsuranceTesting\bin\Debug\DogInsuranceTesting.dll
+H:\TeamDevelopment 11111111111\Week17\Co-op System\DogInsuranceTesting\bin\Debug\DogInsuranceTesting.pdb
+H:\TeamDevelopment 11111111111\Week17\Co-op System\DogInsuranceTesting\bin\Debug\Co-opClassLibraryy.dll
+H:\TeamDevelopment 11111111111\Week17\Co-op System\DogInsuranceTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\TeamDevelopment 11111111111\Week17\Co-op System\DogInsuranceTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\TeamDevelopment 11111111111\Week17\Co-op System\DogInsuranceTesting\bin\Debug\Co-opClassLibraryy.pdb
+H:\TeamDevelopment 11111111111\Week17\Co-op System\DogInsuranceTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\TeamDevelopment 11111111111\Week17\Co-op System\DogInsuranceTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\TeamDevelopment 11111111111\Week17\Co-op System\DogInsuranceTesting\obj\Debug\DogInsuranceTesting.csproj.CopyComplete
+H:\TeamDevelopment 11111111111\Week17\Co-op System\DogInsuranceTesting\obj\Debug\DogInsuranceTesting.dll
+H:\TeamDevelopment 11111111111\Week17\Co-op System\DogInsuranceTesting\obj\Debug\DogInsuranceTesting.pdb
