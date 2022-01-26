@@ -20,3 +20,25 @@ H:\TeamDevelopment 11111111111\Week17\Co-op System\Co-opBackOffice\obj\Debug\net
 H:\TeamDevelopment 11111111111\Week17\Co-op System\Co-opBackOffice\obj\Debug\netcoreapp3.1\Co-opBackOffice.dll
 H:\TeamDevelopment 11111111111\Week17\Co-op System\Co-opBackOffice\obj\Debug\netcoreapp3.1\Co-opBackOffice.pdb
 H:\TeamDevelopment 11111111111\Week17\Co-op System\Co-opBackOffice\obj\Debug\netcoreapp3.1\Co-opBackOffice.genruntimeconfig.cache
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\bin\Debug\netcoreapp3.1\Co-opBackOffice.exe
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\bin\Debug\netcoreapp3.1\Co-opBackOffice.deps.json
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\bin\Debug\netcoreapp3.1\Co-opBackOffice.runtimeconfig.json
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\bin\Debug\netcoreapp3.1\Co-opBackOffice.runtimeconfig.dev.json
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\bin\Debug\netcoreapp3.1\Co-opBackOffice.dll
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\bin\Debug\netcoreapp3.1\Co-opBackOffice.pdb
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\obj\Debug\netcoreapp3.1\Co-opBackOffice.csproj.AssemblyReference.cache
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\obj\Debug\netcoreapp3.1\Co_opBackOffice.Form1.resources
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\obj\Debug\netcoreapp3.1\Co-opBackOffice.csproj.GenerateResource.cache
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\obj\Debug\netcoreapp3.1\Co-opBackOffice.AssemblyInfoInputs.cache
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\obj\Debug\netcoreapp3.1\Co-opBackOffice.AssemblyInfo.cs
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\obj\Debug\netcoreapp3.1\Co-opBackOffice.csproj.CoreCompileInputs.cache
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\obj\Debug\netcoreapp3.1\Co-opBackOffice.csproj.CopyComplete
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\obj\Debug\netcoreapp3.1\Co-opBackOffice.dll
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\obj\Debug\netcoreapp3.1\Co-opBackOffice.pdb
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opBackOffice\obj\Debug\netcoreapp3.1\Co-opBackOffice.genruntimeconfig.cache
