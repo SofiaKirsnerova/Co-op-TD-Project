@@ -11,17 +11,20 @@ namespace Co_opClassLibraryy
 
         public string Valid(string somePersonalInjury)
         {
-            //if the name of the personal injury is not blank
-            if (somePersonalInjury != "")
+            //string variable to store the error message
+            string Error = "";
+            //if the name of the personal injury is more than 50 characters
+            if (somePersonalInjury.Length > 50)
             {
                 //return a blank string
-                return "";
+                Error = "The Personal Injury cannot have more than 50 characters";
             }
-            else
+            if (somePersonalInjury.Length == 0)
             {
-                //otherwise return an error message
-                return "The Personal Injury must not be blank";
+                //return an error message
+                Error = "The Personal Injury must not be blank";
             }
+            return Error;
         }
     }
 }
