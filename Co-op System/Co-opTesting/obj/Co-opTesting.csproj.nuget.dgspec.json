@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Year 3\\Team Development Project\\Coop System\\Week17\\Co-op System\\Co-opTesting\\Co-opTesting.csproj": {}
+    "H:\\Year 3\\Team Development Project\\Coop System\\Week17 MMM\\Co-op System\\Co-opTesting\\Co-opTesting.csproj": {}
   },
   "projects": {
-    "H:\\Year 3\\Team Development Project\\Coop System\\Week17\\Co-op System\\Co-opClassLibraryy\\Co-opClassLibraryy.csproj": {
+    "H:\\Year 3\\Team Development Project\\Coop System\\Week17 MMM\\Co-op System\\Co-opClassLibraryy\\Co-opClassLibraryy.csproj": {
       "restore": {
-        "projectUniqueName": "H:\\Year 3\\Team Development Project\\Coop System\\Week17\\Co-op System\\Co-opClassLibraryy\\Co-opClassLibraryy.csproj",
+        "projectUniqueName": "H:\\Year 3\\Team Development Project\\Coop System\\Week17 MMM\\Co-op System\\Co-opClassLibraryy\\Co-opClassLibraryy.csproj",
         "projectName": "Co-opClassLibraryy",
-        "projectPath": "H:\\Year 3\\Team Development Project\\Coop System\\Week17\\Co-op System\\Co-opClassLibraryy\\Co-opClassLibraryy.csproj"
+        "projectPath": "H:\\Year 3\\Team Development Project\\Coop System\\Week17 MMM\\Co-op System\\Co-opClassLibraryy\\Co-opClassLibraryy.csproj"
       },
       "frameworks": {
         "net461": {}
       }
     },
-    "H:\\Year 3\\Team Development Project\\Coop System\\Week17\\Co-op System\\Co-opTesting\\Co-opTesting.csproj": {
+    "H:\\Year 3\\Team Development Project\\Coop System\\Week17 MMM\\Co-op System\\Co-opTesting\\Co-opTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Year 3\\Team Development Project\\Coop System\\Week17\\Co-op System\\Co-opTesting\\Co-opTesting.csproj",
+        "projectUniqueName": "H:\\Year 3\\Team Development Project\\Coop System\\Week17 MMM\\Co-op System\\Co-opTesting\\Co-opTesting.csproj",
         "projectName": "Co-opTesting",
-        "projectPath": "H:\\Year 3\\Team Development Project\\Coop System\\Week17\\Co-op System\\Co-opTesting\\Co-opTesting.csproj",
+        "projectPath": "H:\\Year 3\\Team Development Project\\Coop System\\Week17 MMM\\Co-op System\\Co-opTesting\\Co-opTesting.csproj",
         "packagesPath": "C:\\Users\\P2574119\\.nuget\\packages\\",
-        "outputPath": "H:\\Year 3\\Team Development Project\\Coop System\\Week17\\Co-op System\\Co-opTesting\\obj\\",
+        "outputPath": "H:\\Year 3\\Team Development Project\\Coop System\\Week17 MMM\\Co-op System\\Co-opTesting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -42,8 +42,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "H:\\Year 3\\Team Development Project\\Coop System\\Week17\\Co-op System\\Co-opClassLibraryy\\Co-opClassLibraryy.csproj": {
-                "projectPath": "H:\\Year 3\\Team Development Project\\Coop System\\Week17\\Co-op System\\Co-opClassLibraryy\\Co-opClassLibraryy.csproj"
+              "H:\\Year 3\\Team Development Project\\Coop System\\Week17 MMM\\Co-op System\\Co-opClassLibraryy\\Co-opClassLibraryy.csproj": {
+                "projectPath": "H:\\Year 3\\Team Development Project\\Coop System\\Week17 MMM\\Co-op System\\Co-opClassLibraryy\\Co-opClassLibraryy.csproj"
               }
             }
           }

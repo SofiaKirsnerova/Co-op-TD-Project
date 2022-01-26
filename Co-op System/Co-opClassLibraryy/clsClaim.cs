@@ -11,19 +11,48 @@ namespace Co_opClassLibraryy
         public DateTime DateOfInjury { get; set; }
         public bool EvidenceProvided { get; set; }
 
-        public string Valid(string someClaim)
+        public string Valid(string someLocation, string someStatus)
         {
-            //if the name of the personal injury is not blank
-            if (someClaim != "")
+            //string variable to store the error message
+            string Error = "";
+            //if the name of the personal injury is more than 50 characters
+            if (someLocation.Length > 50)
             {
                 //return a blank string
-                return "";
+                Error = "The Location cannot have more than 50 characters";
             }
-            else
+            if (someLocation.Length == 0)
             {
-                //otherwise return an error message
-                return "The Claim must not be blank";
+                //return an error message
+                Error = "The Location must not be blank";
             }
+            if (someStatus.Length > 50)
+            {
+                //return a blank string
+                Error = "The Status cannot have more than 50 characters";
+            }
+            if (someStatus.Length == 0)
+            {
+                //return an error message
+                Error = "The Status must not be blank";
+            }
+            return Error;
+        }
+
+        public string Valid(string someStatus)
+        {
+            string Error = "";
+            if (someStatus.Length > 50)
+            {
+                //return a blank string
+                Error = "The Status cannot have more than 50 characters";
+            }
+            if (someStatus.Length == 0)
+            {
+                //return an error message
+                Error = "The Status must not be blank";
+            }
+            return Error;
         }
     }
 }

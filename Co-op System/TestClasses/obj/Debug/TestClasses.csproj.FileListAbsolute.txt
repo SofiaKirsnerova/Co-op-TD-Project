@@ -12,3 +12,17 @@ H:\TeamDevelopment 11111111111\Week17\Co-op System\TestClasses\obj\Debug\TestCla
 H:\TeamDevelopment 11111111111\Week17\Co-op System\TestClasses\obj\Debug\TestClasses.csproj.CopyComplete
 H:\TeamDevelopment 11111111111\Week17\Co-op System\TestClasses\obj\Debug\TestClasses.dll
 H:\TeamDevelopment 11111111111\Week17\Co-op System\TestClasses\obj\Debug\TestClasses.pdb
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\TestClasses\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\TestClasses\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\TestClasses\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\TestClasses\bin\Debug\TestClasses.dll
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\TestClasses\bin\Debug\TestClasses.pdb
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\TestClasses\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\TestClasses\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\TestClasses\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\TestClasses\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\TestClasses\obj\Debug\TestClasses.csproj.AssemblyReference.cache
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\TestClasses\obj\Debug\TestClasses.csproj.CoreCompileInputs.cache
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\TestClasses\obj\Debug\TestClasses.csproj.CopyComplete
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\TestClasses\obj\Debug\TestClasses.dll
+H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\TestClasses\obj\Debug\TestClasses.pdb
