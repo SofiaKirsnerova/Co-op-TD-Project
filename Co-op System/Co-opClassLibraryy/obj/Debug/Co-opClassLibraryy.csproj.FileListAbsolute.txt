@@ -34,3 +34,12 @@ H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opClas
 H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opClassLibraryy\obj\Debug\Co-opClassLibraryy.csproj.CopyComplete
 H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opClassLibraryy\obj\Debug\Co-opClassLibraryy.dll
 H:\Year 3\Team Development Project\Coop System\Week17 MMM\Co-op System\Co-opClassLibraryy\obj\Debug\Co-opClassLibraryy.pdb
+H:\Year 3\Team Development Project\Coop System\Week17 (1)\Co-op System\Co-opClassLibraryy\bin\Debug\Co-opClassLibraryy.dll
+H:\Year 3\Team Development Project\Coop System\Week17 (1)\Co-op System\Co-opClassLibraryy\bin\Debug\Co-opClassLibraryy.pdb
+H:\Year 3\Team Development Project\Coop System\Week17 (1)\Co-op System\Co-opClassLibraryy\bin\Debug\System.Data.SqlClient.dll
+H:\Year 3\Team Development Project\Coop System\Week17 (1)\Co-op System\Co-opClassLibraryy\bin\Debug\System.Data.SqlClient.xml
+H:\Year 3\Team Development Project\Coop System\Week17 (1)\Co-op System\Co-opClassLibraryy\obj\Debug\Co-opClassLibraryy.csproj.AssemblyReference.cache
+H:\Year 3\Team Development Project\Coop System\Week17 (1)\Co-op System\Co-opClassLibraryy\obj\Debug\Co-opClassLibraryy.csproj.CoreCompileInputs.cache
+H:\Year 3\Team Development Project\Coop System\Week17 (1)\Co-op System\Co-opClassLibraryy\obj\Debug\Co-opClassLibraryy.csproj.CopyComplete
+H:\Year 3\Team Development Project\Coop System\Week17 (1)\Co-op System\Co-opClassLibraryy\obj\Debug\Co-opClassLibraryy.dll
+H:\Year 3\Team Development Project\Coop System\Week17 (1)\Co-op System\Co-opClassLibraryy\obj\Debug\Co-opClassLibraryy.pdb

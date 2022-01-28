@@ -75,16 +75,16 @@ namespace PersonalInjuryTesting
             //create a string variable to store the result of validation
             String Error = "";
             //create some test data to test the method
-            string SomePersonalInjury = "Head";
+            string SomeTypeOfInjury = "Head";
             string SomeSeverity = "Moderate";
             //invoke the method
-            Error = APersonalInjury.Valid(SomePersonalInjury, SomeSeverity);
+            Error = APersonalInjury.Valid(SomeTypeOfInjury, SomeSeverity);
             //test to see it exists
             Assert.AreEqual(Error, "");
         }
         
         /// <summary>
-        /// Personal Injury property tests for minimums, mid and maximums
+        /// Type Of Injury property tests for minimums, mid and maximums
         /// </summary>
         
         [TestMethod]
