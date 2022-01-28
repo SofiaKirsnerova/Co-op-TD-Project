@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Year 3\\Team Development Project\\Coop System\\Week17 MMM\\Co-op System\\Co-opBackOffice\\Co-opBackOffice.csproj": {}
+    "H:\\Year 3\\IMAT3903 Team Development Project\\Coop System\\Week17 (1)\\Co-op System\\Co-opBackOffice\\Co-opBackOffice.csproj": {}
   },
   "projects": {
-    "H:\\Year 3\\Team Development Project\\Coop System\\Week17 MMM\\Co-op System\\Co-opBackOffice\\Co-opBackOffice.csproj": {
+    "H:\\Year 3\\IMAT3903 Team Development Project\\Coop System\\Week17 (1)\\Co-op System\\Co-opBackOffice\\Co-opBackOffice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Year 3\\Team Development Project\\Coop System\\Week17 MMM\\Co-op System\\Co-opBackOffice\\Co-opBackOffice.csproj",
+        "projectUniqueName": "H:\\Year 3\\IMAT3903 Team Development Project\\Coop System\\Week17 (1)\\Co-op System\\Co-opBackOffice\\Co-opBackOffice.csproj",
         "projectName": "Co-opBackOffice",
-        "projectPath": "H:\\Year 3\\Team Development Project\\Coop System\\Week17 MMM\\Co-op System\\Co-opBackOffice\\Co-opBackOffice.csproj",
+        "projectPath": "H:\\Year 3\\IMAT3903 Team Development Project\\Coop System\\Week17 (1)\\Co-op System\\Co-opBackOffice\\Co-opBackOffice.csproj",
         "packagesPath": "C:\\Users\\P2574119\\.nuget\\packages\\",
-        "outputPath": "H:\\Year 3\\Team Development Project\\Coop System\\Week17 MMM\\Co-op System\\Co-opBackOffice\\obj\\",
+        "outputPath": "H:\\Year 3\\IMAT3903 Team Development Project\\Coop System\\Week17 (1)\\Co-op System\\Co-opBackOffice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

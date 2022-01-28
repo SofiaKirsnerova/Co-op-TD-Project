@@ -9,20 +9,20 @@ namespace Co_opClassLibraryy
         public decimal Compensation { get; set; }
         public int PersonalInjuryID { get; set; }
 
-        public string Valid(string somePersonalInjury, string someSeverity)
+        public string Valid(string someTypeOfInjury, string someSeverity)
         {
             //string variable to store the error message
             string Error = "";
             //if the name of the personal injury is more than 50 characters
-            if (somePersonalInjury.Length > 50)
+            if (someTypeOfInjury.Length > 50)
             {
                 //return a blank string
-                Error = "The Personal Injury cannot have more than 50 characters";
+                Error = "The Type of Injury cannot have more than 50 characters";
             }
-            if (somePersonalInjury.Length == 0)
+            if (someTypeOfInjury.Length == 0)
             {
                 //return an error message
-                Error = "The Personal Injury must not be blank";
+                Error = "The Type of Injury must not be blank";
             }
             
             return Error;

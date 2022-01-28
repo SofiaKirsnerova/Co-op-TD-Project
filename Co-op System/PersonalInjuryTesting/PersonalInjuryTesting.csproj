@@ -53,6 +53,7 @@
     <Compile Include="tstClaim.cs" />
     <Compile Include="tstClaimInjury.cs" />
     <Compile Include="tstPersonalInjury.cs" />
+    <Compile Include="tstPersonalInjuryCollection.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
