@@ -488,3 +488,5 @@ H:\Year 3\IMAT3903 Team Development Project\Coop System\Week17 (1)\Co-op System\
 H:\Year 3\IMAT3903 Team Development Project\Coop System\Week17 (1)\Co-op System\Co-op Front Office\obj\Debug\Co-opFrontOffice.csproj.CopyComplete
 H:\Year 3\IMAT3903 Team Development Project\Coop System\Week17 (1)\Co-op System\Co-op Front Office\obj\Debug\Co-op Front Office.dll
 H:\Year 3\IMAT3903 Team Development Project\Coop System\Week17 (1)\Co-op System\Co-op Front Office\obj\Debug\Co-op Front Office.pdb
+C:\Users\P2539038\Source\Repos\Co-op-TD-Project1\Co-op System\Co-op Front Office\bin\Co-opClassLibraryy.dll
+C:\Users\P2539038\Source\Repos\Co-op-TD-Project1\Co-op System\Co-op Front Office\bin\Co-opClassLibraryy.pdb
